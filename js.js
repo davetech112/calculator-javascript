@@ -23,7 +23,7 @@ let result = 0;
       alert(result);
     }
     else {
-      alert('Invalid input. Refresh and try again');
+      alert('Refresh to try again');
     }
   }
 
